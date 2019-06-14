@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Cifracursi
 
 Cifracursi es un sitio web para personas que tienen diversas conversaciones por varios medios sociales y no han logrado evitar mandarles a sus amigos o socios de trabajo un mensaje muy cursi que iba dirigido a su pareja sentimental.
@@ -21,6 +22,8 @@ Hasta este punto, el proyecto se ha enfocado en las habilidades técnicas de UX.
 
 
 
+=======
+>>>>>>> 0e559d20db336f5deee2f18d10c9205ab3667324
 # Cifrado César
 
 Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher) es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio César lo usaba para enviar órdenes secretas a sus generales en los campos de batalla.
@@ -244,7 +247,11 @@ para ver la descripción detallada de cada _habilidad_ y cada _nivel_. Esta es u
    también). Si usas Windows puedes usar [Git bash](https://git-scm.com/download/win),
    aunque recomendaría que consideres probar :penguin: GNU/Linux como tu Sistema Operativo.
 3. Haz tu propio :fork_and_knife: [fork](https://help.github.com/articles/fork-a-repo/)
+<<<<<<< HEAD
    de [ este repositorio](https://github.com/Laboratoria/MEX-008-Cipher) de tu cohort, tus _coaches_ te compartirán un _link_ a un repositorio y te 
+=======
+   de [ este repositorio](https://github.com/Laboratoria/cdmx-2019-01-bc-core-am-cipher) de tu cohort, tus _coaches_ te compartirán un _link_ a un repositorio y te 
+>>>>>>> 0e559d20db336f5deee2f18d10c9205ab3667324
    darán acceso de lectura en ese repo.
 4. :arrow_down: [Clona](https://help.github.com/articles/cloning-a-repository/)
    tu _fork_ a tu computadora (copia local).
