@@ -1,34 +1,57 @@
 body {
-      background-color: #B3B3B3;
+      background-color: #1765FF;
       font-family: helvetica, serif;
+      background-image: url("I.png");
+      width:100%;
 
 
   }
 
   .questions {
-    background-color: #ffffff;
+    background-color: #FFFEF8;
     width: 40%;
     border-radius: 5px;
     margin-left: auto;
     margin-right: auto;
-    
+    padding: 20px;
     
 }
 
+
 p {
-      font-weight: bolder;
+      font-weight: lighter;
       font-size:18px;
       text-align: center;
+      padding: 20px;
+      
+
+}
+
+.inputS {
+  border-radius: 15px;
+  font-size: 12px;
+  width: 60%;
+  height: 50px;
+  text-align: center;
+  border: none;
+  font-style: italic;
+  background-color: antiquewhite;
+  padding: 20px;
+  
+
 
 }
 
   .header {
-      background-color: #000000;
-      padding: 20px;
+      background-color: #F9F5D7;
+      padding: 30px;
       text-align: center;
-      font-style: italic;
-      font-size: 60%;
-      color: white;
+      width:100%;
+      border-radius: 35px;
+      
+      
+      /*font-style: italic;
+      color: white; */
   }
   
   .btn {
@@ -37,18 +60,18 @@ p {
       border-radius: 2em;
       padding: 14px 40px;
       font-size: 14px;
-      background-color: #FF6969;
+      background-color: #F9572B;
       margin: 25px 50px 75px;
       
   }
 
   .btn:hover {
-    background-color: #000000;
-    color: #B3B3B3;
+    background-color: #FFA285;
+    color: #353535;
     opacity: 9;
   }
   
-  #cifrar {
+  /* #cifrar {
     border-radius: 15px;
     font-size: 12px;
     width: 60%;
@@ -58,7 +81,7 @@ p {
     font-style: italic;
     background-color: antiquewhite;
   
-  }
+  } */
 
   #numberList {
     border-radius: 15px;
@@ -69,7 +92,9 @@ p {
     border: none;
     font-style: italic;
     background-color: antiquewhite;
+  
 
   }
 
+  
 

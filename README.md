@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Cifracursi
 
 Cifracursi es un sitio web para personas que tienen diversas conversaciones por varios medios sociales y no han logrado evitar mandarles a sus amigos o socios de trabajo un mensaje muy cursi que iba dirigido a su pareja sentimental.
@@ -22,8 +21,6 @@ Hasta este punto, el proyecto se ha enfocado en las habilidades técnicas de UX.
 
 
 
-=======
->>>>>>> 0e559d20db336f5deee2f18d10c9205ab3667324
 # Cifrado César
 
 Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher) es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio César lo usaba para enviar órdenes secretas a sus generales en los campos de batalla.
