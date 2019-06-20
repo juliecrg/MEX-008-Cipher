@@ -18,10 +18,11 @@ window.cipher = {
     let segundoString = "";
     for (let i=0; i < string.length; i++) {
       let positionAscii = stringh.charCodeAt (i);
-      let newPositionAscii = ((positionAscii +65 - offset) % 26 +65);
+      let newPositionAscii = ((positionAscii + 65 - offset) % 26 + 65);
       let newCharacter = String.fromCharCode(newPositionAscii);
       segundoString = segundoString+newCharacter;
     }
+          return segundoString;
   }  
      
   
