@@ -1,25 +1,24 @@
-#Cifracursi
+# Cifracursi
 
-Cifracursi es un sitio web para personas que tienen diversas conversaciones por varios medios sociales y no han logrado evitar mandarles a sus amigos o socios de trabajo un mensaje muy cursi que iba dirigido a su pareja sentimental.
+Cifracursi es un sitio web para adolescentes (entre 13 y 17 años de edad). Se ha creado para ell@s porque viven con sus papás y tienen la necesidad de tener un extra de privacidad en redes sociales.Tiene una estrucutra básica que resuelve un problema sencillo en segundos. Se puede codificar y decodificar cualquier palabra cursi para el uso de ambas personas en la relación.
 
-Tiene una estrucutra básica que resuelve un problema sencillo en segundos. Se puede codificar y decodificar cualquier palabra cursi para el uso de ambas personas en la relación. 
+## Desarrollo
 
-Con solo dos botones puedes resolver un problema de comunicación con tu pareja. Esta es la primera versión mostrada del proyecto, se implementará una página de inicio (si es funcional).
+Se busco que fuera intuitiva, que pudieras leer las instrucciones mientras vas navegando: las personas quieren leer menos y resolver más rápido una situación. Se cuidaron las palabras para que fuera entendible para los adolescentes:
 
-Hasta este punto, el proyecto se ha enfocado en las habilidades técnicas de UX.
+En lugar de la palabra *offset* se utilizo la palabra *clave* que se puede entender como un número que será la llave para cifrar y descifrar.
 
+En lugar de la palabra *cifrar* se utilizo la palabra *crea* que se puede entender como un número que será la llave para cifrar y descifrar.
 
-![What is this] (PPW.png)
+### Diseño
 
+El diseño es juvenil optando por ilustraciones.
 
+La paleta de color es contraste entre fríos, lo cual equilibra.
 
+#### Test de usuario
 
-
-
-
-
-
-
+Al principio se pensó para un rango de edad diferente pero en las entrevistas el feedback fue que las personas mayores de 20 años no necesitan cifrar las conversaciones pues ya no viven con sus padres o no les interesaria cifrar cosas cursis. En usuarios más jóvenes desperto curiosidad y el feedback fueron algunas palabras difíciles de entender.
 
 # Cifrado César
 
